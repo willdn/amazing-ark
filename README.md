@@ -8,7 +8,7 @@
 <h1 align="center">Awesome ARK</h1>
 
 <p align="center">
-  A curated list of awesome <b><a href="https://ark.io">ARK</a></b> libraries, applications and resources.
+  A curated list of amazing <b><a href="https://ark.io">ARK</a></b> libraries, applications, tutorials and resources.
 </p>
 
 ## Contents
