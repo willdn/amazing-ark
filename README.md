@@ -5,8 +5,7 @@
   >
 </p>
 
-<h1 align="center">Awesome ARK</h1>
-
+<h1 align="center">Amazing ARK</h1>
 <p align="center">
   A curated list of amazing <b><a href="https://ark.io">ARK</a></b> libraries, applications, tutorials and resources.
 </p>
