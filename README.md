@@ -31,6 +31,7 @@
 - [FAQ](#faq)
 - [Monitoring](#monitoring)
 - [Social](#social)
+- [Tutorials](#tutorials)
 - [Wallets](#wallets)
 
 ---
@@ -78,7 +79,7 @@
 
 #### Devnet Explorers
 
-- [dexplorer.dafty.net](https://dexplorer.dafty.net/) - Dafty dev net explorer
+- [dexplorer.dafty.net](https://dexplorer.dafty.net/) - Dafty dev net explorer.
 
 ---
 
@@ -95,8 +96,6 @@
 
 #### Delegates tutorial
 
-- [DPoS and ARK Voting Explained](https://blog.ark.io/dpos-and-ark-voting-explained-68596a171ca1) - Introduction to DPoS consensus system.
-- [How to vote a delegate to get rewards?](https://medium.com/@jarunik/ark-how-to-vote-a-delegate-to-get-rewards-70a6f929e806) - Easy to follow delegate voting tutorial.
 - [The Path to Becoming an ARK Delegate](https://blog.ark.io/building-a-delegation-the-path-to-becoming-an-ark-delegate-9866deec324b) - Requirements to delegate.
 
 ####  Delegates tool
@@ -193,6 +192,16 @@
 - [Slack](https://ark.io/slack) - Official Slack.
 - [Discord](http://arkchat.net/) - Official Discord.
 - [Forum](https://forum.ark.io/) - Official forum.
+
+---
+
+# Tutorials
+
+- [Add another Ark based coin to the Ark Desktop Client](https://medium.com/@jarunik/how-to-add-another-ark-based-coin-to-the-ark-desktop-client-5ffa450967a1) - Clone the Ark blockchain and launch your own coin with it.
+- [DPoS and ARK Voting Explained](https://blog.ark.io/dpos-and-ark-voting-explained-68596a171ca1) - Introduction to DPoS consensus system.
+- [How to vote a delegate to get rewards?](https://medium.com/@jarunik/ark-how-to-vote-a-delegate-to-get-rewards-70a6f929e806) - Easy to follow delegate voting tutorial.
+- [Installing and managing an Ark Node](https://medium.com/@jarunik/installing-and-managing-an-ark-node-577a9074b9bb) - This guide tries to give you some basics to get started with an Ark node.
+- [Launch your own Ark clone chain](https://medium.com/@jarunik/launch-your-own-ark-clone-chain-2104eccf3371) - This guide will explain you how to launch your own clone chain while avoiding all customization and extra steps.
 
 ---
 
