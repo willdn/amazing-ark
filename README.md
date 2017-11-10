@@ -74,10 +74,11 @@
 - [explorer.ark.io](https://explorer.ark.io/) - Ark official explorer.
 - [explorer.arkcoin.net](https://explorer.arkcoin.net/) - Arkcoin community explorer.
 - [explorer.arknode.net](https://explorer.arknode.net/) - Arknode community explorer.
+- [explorer.dafty.net](https://explorer.dafty.net/) - Dafty community explorer.
 
 #### Devnet Explorers
 
-- [dexplorer.dafty.net](https://dexplorer.dafty.net/) - Dafty dev net explorer
+- [dexplorer.dafty.net](https://dexplorer.dafty.net/) - Dafty devnet explorer.
 
 ---
 
