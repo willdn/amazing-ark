@@ -15,7 +15,7 @@ Your contributions are always welcome!
 * Remove any trailing whitespace.
 * All links should be alphabetical order.
 * All sections should be alphabetical order.
-* Send a Pull Request with the reason why the project is awesome.
+* Send a Pull Request with the reason why the project is amazing.
 
 ## Link Format
 
