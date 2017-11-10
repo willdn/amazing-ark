@@ -195,7 +195,7 @@
 
 ---
 
-# Tutorials
+## Tutorials
 
 - [Add another Ark based coin to the Ark Desktop Client](https://medium.com/@jarunik/how-to-add-another-ark-based-coin-to-the-ark-desktop-client-5ffa450967a1) - Clone the Ark blockchain and launch your own coin with it.
 - [DPoS and ARK Voting Explained](https://blog.ark.io/dpos-and-ark-voting-explained-68596a171ca1) - Introduction to DPoS consensus system.
