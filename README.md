@@ -17,6 +17,7 @@
 - [Ark Official](#ark-official)
 - [Blockchain Explorers](#blockchain-explorers)
     - [Devnet](#devnet-explorers)
+- [Community resources](#community-resources)
 - [Delegates](#delegates)
     - [Delegate tutorial](#delegates-tutorial)
     - [Delegates tools](#delegates-tool)
@@ -78,6 +79,12 @@
 #### Devnet Explorers
 
 - [dexplorer.dafty.net](https://dexplorer.dafty.net/) - Dafty dev net explorer
+
+---
+
+## Community resources
+
+- [Awesome Ark](https://github.com/guppster/awesome-ark) - A curated list of ARK Projects.
 
 ---
 
