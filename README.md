@@ -159,6 +159,7 @@
 
 - [Binance](https://www.binance.com/trade.html?symbol=ARK_BTC) - A Hong Kong-based exchange that allows trading with **BTC**. Returns GAS to users. *English, Chinese, Korean, Japanese, Russian and Spanish interfaces*
 - [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-ARK) - A United States-based exchange. Allows trading for **BTC**.
+- [Bit-Z](https://www.bit-z.com/trade/ark_btc) - A Chinese exchange that allows trading for **BTC**.
 - [CoinSpot](https://www.coinspot.com.au/buy/ark) - An Australian exchange that allows trading for **AUD**.
 - [CoinSwitch](https://coinswitch.co/exchange/BTC/ARK) - An Indian exchange that allows trading for various other cryptocurrencies.
 - [Coss.io](https://exchange.coss.io/pair/ark-btc) - Exchange that allows trading for **BTC**, **ETH**.
