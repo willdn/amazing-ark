@@ -32,6 +32,7 @@
 - [Monitoring](#monitoring)
 - [Social](#social)
 - [Tutorials](#tutorials)
+- [Videos](#videos)
 - [Wallets](#wallets)
 
 ---
@@ -205,6 +206,15 @@
 - [Installing and managing an Ark Node](https://medium.com/@jarunik/installing-and-managing-an-ark-node-577a9074b9bb) - This guide tries to give you some basics to get started with an Ark node.
 - [Launch your own Ark clone chain](https://medium.com/@jarunik/launch-your-own-ark-clone-chain-2104eccf3371) - This guide will explain you how to launch your own clone chain while avoiding all customization and extra steps.
 - [Using Ledger](https://www.reddit.com/r/ArkEcosystem/comments/6y3ufb/mini_guide_using_ledger/) - Short guide on how to use the new Ledger Nano S hardware wallet in combination with the Ark Desktop Wallet.
+
+---
+
+## Videos
+
+- [ARK for BEGINNERS](https://www.youtube.com/watch?v=CgD4WqHJFtU) - Explain Ark for beginners.
+- [ARK for EXPERTS - #1 - WHAT IS DELEGATED PROOF OF STAKE?](https://www.youtube.com/watch?v=9ADgrAOxXNU) - Learn how DPoS works.
+- [ARK for EXPERTS - #2 - WHAT IS A.C.E.S.?](https://www.youtube.com/watch?v=X94qHbZBYA8) - Video about [ACES](#aces).
+- [What is Ark in a Nutshell](https://www.youtube.com/watch?v=PI2eYIcvV5s) - Learn about the key features of ARK and its advantages and disadvantages.
 
 ---
 
