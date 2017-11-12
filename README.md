@@ -206,6 +206,7 @@
 - [How to vote a delegate to get rewards?](https://medium.com/@jarunik/ark-how-to-vote-a-delegate-to-get-rewards-70a6f929e806) - Easy to follow delegate voting tutorial.
 - [Installing and managing an Ark Node](https://medium.com/@jarunik/installing-and-managing-an-ark-node-577a9074b9bb) - This guide tries to give you some basics to get started with an Ark node.
 - [Launch your own Ark clone chain](https://medium.com/@jarunik/launch-your-own-ark-clone-chain-2104eccf3371) - This guide will explain you how to launch your own clone chain while avoiding all customization and extra steps.
+- [The Ark Blockchain Database](https://medium.com/@jarunik/the-ark-blockchain-database-5d9db2a0e36a) - Dig into the Ark node database.
 - [Using Ledger](https://www.reddit.com/r/ArkEcosystem/comments/6y3ufb/mini_guide_using_ledger/) - Short guide on how to use the new Ledger Nano S hardware wallet in combination with the Ark Desktop Wallet.
 
 ---
