@@ -83,6 +83,7 @@
 #### Devnet Explorers
 
 - [dexplorer.dafty.net](https://dexplorer.dafty.net/) - Dafty devnet explorer.
+- [dexplorer.arkcoin.net](https://dexplorer.arkcoin.net/) - Jarunik devnet explorer.
 
 ---
 
@@ -152,6 +153,8 @@
 
 - [Ark Bounty Program](https://blog.ark.io/200-000-ark-bounty-for-developers-in-the-1st-year-76aa44304012) - Ark bounty program.
 - [Ark Gitter](https://gitter.im/ark-developers/Lobby) - Ark Gitter developer lobby.
+- [Ark Node API](https://api.arkcoin.net/api/peers/version) - Jarunik's public Ark node API
+- [Devnet Ark Node API](https://dev.arkcoin.net/api/peers/version) - Jarunik's public Devnet Ark node API
 
 ---
 
