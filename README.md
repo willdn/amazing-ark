@@ -146,6 +146,7 @@
 - [ARKKit](https://github.com/sleepdefic1t/ARKKit) - **Swift** wrapper for interacting with the Ark Ecosystem.
 - [Arky](https://github.com/ArkEcosystem/arky) - **Python**ic way to work with Ark.io.
 - [jark](https://github.com/willdn/jark) - **JavaScript** ARK API wrapper to interact with the ARK blockchain.
+- [Pythark](https://github.com/Highjhacker/pythark) - Ark API Wrapper in **Python**.
 - [Rust Ark](https://github.com/arkcommunityfund/rust-ark) - A **Rust** Wrapper for the Ark Ecosystem.
 - [SwiftyArk](https://github.com/Awalz/SwiftyArk) - **Swift** simple, lightweight framework for the Ark Ecosystem.
 
