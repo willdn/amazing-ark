@@ -96,6 +96,7 @@
 
 ## Delegates
 
+- [ARK Delegate List](https://delegates.arkx.io/) - Profiles of some of the ARK delegates.
 - [Delegates subreddit](https://www.reddit.com/r/ArkDelegates) - /r/ArkDelegates subreddit dedicated to delegates.
 - [Delegate proposals](https://forum.ark.io/category/5/delegates) - Ark forum delegate proposals.
 
