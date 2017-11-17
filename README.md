@@ -30,6 +30,7 @@
 - [Exchanges](#exchanges)
 - [FAQ](#faq)
 - [Monitoring](#monitoring)
+- [Press](#press)
 - [Social](#social)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
@@ -188,6 +189,12 @@
 - [ArkNode Vote Report](https://www.arknode.net/VoteReport.txt) - Get votes details.
 - [ArkStats](https://arkstats.net/) - Real-time network monitor.
 - [DarkStats](https://d.arkstats.net/) - Real-time network monitor *(Dev network)*.
+
+---
+
+## Press
+
+- [What is Ark?](http://www.investinblockchain.com/what-is-ark/) - Article that focus on SmartBridge.
 
 ---
 
