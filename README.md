@@ -172,7 +172,7 @@
 - [Cryptomate](https://cryptomate.co.uk/buy-ark/) - A UK exchange that allows trading for **GBP**.
 - [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=ARK_BTC) - A New Zealand-based exchange that allows trading for **BTC**, **LTC** and **DOGE**.
 - [LiteBit](https://www.litebit.eu/en/buy/ark) - A Dutch-based exchange that allows trading for **EUR**.
-- [UPbit](https://upbit.com/exchange?code=CRIX.UPBIT.BTC-ARK) - A Korean exchange that allows trading for **BTC**.
+- [UPbit](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-ARK) - A Korean exchange that allows trading for **KRW**, **BTC**.
 
 ---
 
