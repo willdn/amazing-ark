@@ -50,7 +50,7 @@
 - [ACES GitHub](https://github.com/ark-aces) - ARK Contract Execution Services GitHub repository.
 - [How to use an ACES node](https://medium.com/@2blockchains/how-to-use-an-aces-node-ethereum-transfer-ba58ab83a6b3) - Tutorial on how to use an ACES node.
 
-### ACES Documentation
+#### ACES Documentation
 
 - [Listener Framework Documentation](https://ark-aces.github.io/aces-encoded-listener-docs/) - ACES Listener Framework Documentation.
 - [Service Framework Documentation](https://ark-aces.github.io/aces-service-docs/) - ACES Service Framework Documentation.
@@ -162,8 +162,8 @@
 
 - [Ark Bounty Program](https://blog.ark.io/200-000-ark-bounty-for-developers-in-the-1st-year-76aa44304012) - Ark bounty program.
 - [Ark Gitter](https://gitter.im/ark-developers/Lobby) - Ark Gitter developer lobby.
-- [Ark Node API](https://api.arkcoin.net/api/peers/version) - Jarunik's public Ark node API
-- [Devnet Ark Node API](https://dev.arkcoin.net/api/peers/version) - Jarunik's public Devnet Ark node API
+- [Ark Node API](https://api.arkcoin.net/api/peers/version) - Jarunik's public Ark node API.
+- [Devnet Ark Node API](https://dev.arkcoin.net/api/peers/version) - Jarunik's public Devnet Ark node API.
 
 ---
 
