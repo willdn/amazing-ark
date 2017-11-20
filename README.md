@@ -249,3 +249,7 @@
 ## Contribute
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## Donations
+
+Ark : AePNZAAtWhLsGFLXtztGLAPnKm98VVC8tJ
