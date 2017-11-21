@@ -134,6 +134,7 @@
 - [ARKcommander](https://github.com/ArkEcosystem/ARKcommander) - A simple shell script to easily setup an ARK node.
 - [Ark Node](https://github.com/ArkEcosystem/ark-node) - Official Ark node application.
 - [Ark RPC](https://github.com/ArkEcosystem/ark-rpc) - Official RPC server to connect to blockchain ARK.
+- [ARKCommerce](https://github.com/Spikarija/ARKCommerce) - Payment gateway that provides ARK crypto currency services to WooCommerce stores.
 
 #### Documentation
 
