@@ -89,6 +89,7 @@
 
 #### Devnet Explorers
 
+- [dexplorer.ark.io](https://dexplorer.ark.io) - Ark official devnet explorer.
 - [dexplorer.dafty.net](https://dexplorer.dafty.net/) - Dafty devnet explorer.
 - [dexplorer.arkcoin.net](https://dexplorer.arkcoin.net/) - Jarunik devnet explorer.
 
