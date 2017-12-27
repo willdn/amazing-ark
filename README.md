@@ -13,6 +13,7 @@
 ## Contents
 
 - [ACES](#aces)
+    - [Documentaion](#aces-documentation)
 - [Ark Community Fund](#ark-community-fund)
 - [Ark Official](#ark-official)
 - [Blockchain Explorers](#blockchain-explorers)
@@ -30,6 +31,7 @@
 - [Exchanges](#exchanges)
 - [FAQ](#faq)
 - [Monitoring](#monitoring)
+- [Press](#press)
 - [Social](#social)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
@@ -47,6 +49,11 @@
 - [ACES Frontend Application](https://github.com/ark-aces/aces-frontend) - Ark Contract Execution Service (ACES) frontend web application repository.
 - [ACES GitHub](https://github.com/ark-aces) - ARK Contract Execution Services GitHub repository.
 - [How to use an ACES node](https://medium.com/@2blockchains/how-to-use-an-aces-node-ethereum-transfer-ba58ab83a6b3) - Tutorial on how to use an ACES node.
+
+#### ACES Documentation
+
+- [Listener Framework Documentation](https://ark-aces.github.io/aces-encoded-listener-docs/) - ACES Listener Framework Documentation.
+- [Service Framework Documentation](https://ark-aces.github.io/aces-service-docs/) - ACES Service Framework Documentation.
 
 ---
 
@@ -82,6 +89,7 @@
 
 #### Devnet Explorers
 
+- [dexplorer.ark.io](https://dexplorer.ark.io) - Ark official devnet explorer.
 - [dexplorer.dafty.net](https://dexplorer.dafty.net/) - Dafty devnet explorer.
 - [dexplorer.arkcoin.net](https://dexplorer.arkcoin.net/) - Jarunik devnet explorer.
 
@@ -95,6 +103,7 @@
 
 ## Delegates
 
+- [ARK Delegate List](https://delegates.arkx.io/) - Profiles of some of the ARK delegates.
 - [Delegates subreddit](https://www.reddit.com/r/ArkDelegates) - /r/ArkDelegates subreddit dedicated to delegates.
 - [Delegate proposals](https://forum.ark.io/category/5/delegates) - Ark forum delegate proposals.
 
@@ -126,6 +135,7 @@
 - [ARKcommander](https://github.com/ArkEcosystem/ARKcommander) - A simple shell script to easily setup an ARK node.
 - [Ark Node](https://github.com/ArkEcosystem/ark-node) - Official Ark node application.
 - [Ark RPC](https://github.com/ArkEcosystem/ark-rpc) - Official RPC server to connect to blockchain ARK.
+- [ARKCommerce](https://github.com/Spikarija/ARKCommerce) - Payment gateway that provides ARK crypto currency services to WooCommerce stores.
 
 #### Documentation
 
@@ -146,6 +156,7 @@
 - [ARKKit](https://github.com/sleepdefic1t/ARKKit) - **Swift** wrapper for interacting with the Ark Ecosystem.
 - [Arky](https://github.com/ArkEcosystem/arky) - **Python**ic way to work with Ark.io.
 - [jark](https://github.com/willdn/jark) - **JavaScript** ARK API wrapper to interact with the ARK blockchain.
+- [Pythark](https://github.com/Highjhacker/pythark) - Ark API Wrapper in **Python**.
 - [Rust Ark](https://github.com/arkcommunityfund/rust-ark) - A **Rust** Wrapper for the Ark Ecosystem.
 - [SwiftyArk](https://github.com/Awalz/SwiftyArk) - **Swift** simple, lightweight framework for the Ark Ecosystem.
 
@@ -153,8 +164,8 @@
 
 - [Ark Bounty Program](https://blog.ark.io/200-000-ark-bounty-for-developers-in-the-1st-year-76aa44304012) - Ark bounty program.
 - [Ark Gitter](https://gitter.im/ark-developers/Lobby) - Ark Gitter developer lobby.
-- [Ark Node API](https://api.arkcoin.net/api/peers/version) - Jarunik's public Ark node API
-- [Devnet Ark Node API](https://dev.arkcoin.net/api/peers/version) - Jarunik's public Devnet Ark node API
+- [Ark Node API](https://api.arkcoin.net/api/peers/version) - Jarunik's public Ark node API.
+- [Devnet Ark Node API](https://dev.arkcoin.net/api/peers/version) - Jarunik's public Devnet Ark node API.
 
 ---
 
@@ -169,7 +180,7 @@
 - [Cryptomate](https://cryptomate.co.uk/buy-ark/) - A UK exchange that allows trading for **GBP**.
 - [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=ARK_BTC) - A New Zealand-based exchange that allows trading for **BTC**, **LTC** and **DOGE**.
 - [LiteBit](https://www.litebit.eu/en/buy/ark) - A Dutch-based exchange that allows trading for **EUR**.
-- [UPbit](https://upbit.com/exchange?code=CRIX.UPBIT.BTC-ARK) - A Korean exchange that allows trading for **BTC**.
+- [UPbit](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-ARK) - A Korean exchange that allows trading for **KRW**, **BTC**.
 
 ---
 
@@ -187,6 +198,12 @@
 - [ArkNode Vote Report](https://www.arknode.net/VoteReport.txt) - Get votes details.
 - [ArkStats](https://arkstats.net/) - Real-time network monitor.
 - [DarkStats](https://d.arkstats.net/) - Real-time network monitor *(Dev network)*.
+
+---
+
+## Press
+
+- [What is Ark?](http://www.investinblockchain.com/what-is-ark/) - Article that focus on SmartBridge.
 
 ---
 
@@ -209,6 +226,7 @@
 - [How to vote a delegate to get rewards?](https://medium.com/@jarunik/ark-how-to-vote-a-delegate-to-get-rewards-70a6f929e806) - Easy to follow delegate voting tutorial.
 - [Installing and managing an Ark Node](https://medium.com/@jarunik/installing-and-managing-an-ark-node-577a9074b9bb) - This guide tries to give you some basics to get started with an Ark node.
 - [Launch your own Ark clone chain](https://medium.com/@jarunik/launch-your-own-ark-clone-chain-2104eccf3371) - This guide will explain you how to launch your own clone chain while avoiding all customization and extra steps.
+- [The Ark Command Line Client (ark-client)](https://medium.com/@jarunik/the-ark-command-line-client-ark-client-fe3164f2685d) - This article will provide a short introduction to get you going with the “Ark Command Line Client (ark-client)” on a Windows machine.
 - [The Ark Blockchain Database](https://medium.com/@jarunik/the-ark-blockchain-database-5d9db2a0e36a) - Dig into the Ark node database.
 - [Using Ledger](https://www.reddit.com/r/ArkEcosystem/comments/6y3ufb/mini_guide_using_ledger/) - Short guide on how to use the new Ledger Nano S hardware wallet in combination with the Ark Desktop Wallet.
 
@@ -225,7 +243,7 @@
 
 ## Wallets
 
-- [Desktop wallet](https://github.com/ArkEcosystem/ark-desktop/releases) - Desktop wallet available on **Windows**, **Linux** (Ubuntu/Debian) and **MacOSX** (signed)
+- [Desktop wallet](https://github.com/ArkEcosystem/ark-desktop/releases) - Desktop wallet available on **Windows**, **Linux** (Ubuntu/Debian) and **MacOSX** (signed).
 - [Paper wallet](https://arkecosystem.github.io/ark-paperwallet/) - Ark paper wallet.
 - [Web Lite Wallet](https://arkecosystem.github.io/ark-lite-wallet/app/) - Ark lite web wallet.
 
@@ -234,3 +252,7 @@
 ## Contribute
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## Donations
+
+Ark : AePNZAAtWhLsGFLXtztGLAPnKm98VVC8tJ
