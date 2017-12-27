@@ -246,6 +246,7 @@
 - [Desktop wallet](https://github.com/ArkEcosystem/ark-desktop/releases) - Desktop wallet available on **Windows**, **Linux** (Ubuntu/Debian) and **MacOSX** (signed).
 - [Paper wallet](https://arkecosystem.github.io/ark-paperwallet/) - Ark paper wallet.
 - [Web Lite Wallet](https://arkecosystem.github.io/ark-lite-wallet/app/) - Ark lite web wallet.
+- [Mobile Wallet](https://github.com/ArkEcosystem/ark-mobile)
 
 ---
 
